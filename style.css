@@ -1,0 +1,140 @@
+#about{
+    margin: 100px 0;
+    padding-top: 50px;
+    font-size: 20px;
+    text-align: left;
+}
+
+#signature {
+    margin-left: 260px;
+    width: 300px;
+    height: 100px;
+}
+#initials-logo {
+    margin-right: 100px;
+    width: 50px;
+    height: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li a {
+    color: white;
+    display: inline;
+    width: 60px;
+    float: right;
+}
+.navibar li a:hover {
+    text-shadow: 0 0 10px white, 0 0 20px white;
+}
+.plack {
+    text-align: center;
+    background-color: black;
+    border-radius: 0;
+    color: white;
+    box-shadow: -3px 10px 10px rgb(109, 109, 109);
+}
+#mugshotBW {
+    width: 400px;
+    height: 500px;
+    box-shadow: -3px 10px 10px rgb(109, 109, 109);
+    border-radius: 25%;
+}
+#vampirepacman{
+    border-radius: 25%;
+    position:-ms-page;
+}
+#static-storefront{
+    border-radius: 25%;
+}
+#goldbadge{
+    border-radius: 25%;
+}
+#bluebadge{
+    border-radius: 25%;
+}
+#redbadge{
+    border-radius: 25%;
+}
+body{
+    background-color: rgb(83, 83, 83);
+}
+#portfolio {
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 200px;
+    text-align: center
+}
+.portfolio-img-div {
+    text-align: center;
+}
+#portfolio img {
+    width: 350px;
+    height: 300px;
+}
+.title {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+.project{
+    box-shadow: -3px 10px 10px rgb(109, 109, 109);
+}
+.goldbadge{
+    box-shadow: -3px 10px 10px rgb(109, 109, 109);
+}
+#form {
+    font-size: 25px;
+}
+button {
+    border-radius: 3px;
+    padding: 5px 10px;
+    margin-top: 10px;
+    background-color: white;
+    border: 1px solid white;
+}
+input {
+    padding: 5px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    border: 0;
+    border-bottom: 1px solid black;
+    width: 25%;
+}
+input:focus {
+    outline: none;
+}
+textarea {
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 25%
+}
+#footer {
+    
+    padding: 20px;
+    text-align: right;
+    font-size:10px;
+}
+.siteicon {
+    
+    font-size: 50px;
+    color: black;
+    padding: 10px;
+}
+#siteicon{
+    position: center;
+}
+.siteicon:hover {
+    color: rgb(141, 140, 140);
+    position: relative;
+    top: -5px;
+}
+#links{
+    position: relative;
+    left:490px
+
+}
